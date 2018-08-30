@@ -1,4 +1,4 @@
-# KU Cafe Breakfast Menu
+# KU Cafe Menu
 
 ## Food Items
 
@@ -24,7 +24,6 @@
 | Green Tea                  |  22  |
 | Hot Coffee                 |  25  |
 | Ice Coffee                 |  35  |
-| Oolong Tea                 |  20  |
 | Orange Juice               |  25  |
 
 ---
